@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKKBo3T", 
+    "username": "NightDreamAFK", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "127.0.0.1", 
-    "port": 33052,   
+    "ip": "tutorialmcwi.play.hosting", 
+    "port": 25565,   
     "version": "1.12.1"   
   },
   
