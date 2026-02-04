@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "AFKBo3T", 
+    "username": "AFKKBo3T", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "waguriismp.aternos.me", 
-    "port": 58031,   
-    "version": "1.12.1"   
+    "ip": "tutorialmcwi.play.hosting", 
+    "port": 33052,   
+    "version": "1.12.4"   
   },
   
   "position": {
@@ -36,7 +36,7 @@
 
       "messages": [
         "I'm a regular player",
-        "Subscibe To Slobos!",
+        "Hope you guys enjoy this SMP",
         "I Like to Play Minecraft!"
       ]
     },
