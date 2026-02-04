@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "tutorialmcwi.play.hosting", 
+    "ip": "127.0.0.1", 
     "port": 33052,   
     "version": "1.12.1"   
   },
