@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "tutorialmcwi.play.hosting", 
+    "ip": "mcwigantengbgt.play.hosting", 
     "port": 25565,   
-    "version": "1.12.1"   
+    "version": "1.12.11"   
   },
   
   "position": {
